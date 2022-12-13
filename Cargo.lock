@@ -671,7 +671,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rs-hdmap"
+name = "rs-random-walk"
 version = "0.1.0"
 dependencies = [
  "image",
